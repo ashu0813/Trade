@@ -1,2 +1,2 @@
-# Trade
-Checking profit & how many trades are required for the required money is easy using this program
+# Trade calculator
+Designed a trade calculator to calculate the number of trades required and profit after the nth trade.
